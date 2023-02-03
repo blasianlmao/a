@@ -1,7 +1,0 @@
-C:\Users\blasian\Downloads\valorant_1\Spoofer menu test\obj\Release\ValorantTempSpoofer.csproj.AssemblyReference.cache
-C:\Users\blasian\Downloads\valorant_1\Spoofer menu test\obj\Release\ValorantTempSpoofer.csproj.CoreCompileInputs.cache
-C:\Users\blasian\Downloads\valorant_1\Spoofer menu test\obj\Release\Valorant Spoofer.exe
-C:\Users\blasian\Downloads\valorant_1\Spoofer menu test\obj\Release\Valorant Spoofer.pdb
-C:\Users\blasian\Downloads\valorant_1\Spoofer menu test\bin\Release\Valorant Spoofer.exe.config
-C:\Users\blasian\Downloads\valorant_1\Spoofer menu test\bin\Release\Valorant Spoofer.exe
-C:\Users\blasian\Downloads\valorant_1\Spoofer menu test\bin\Release\Valorant Spoofer.pdb
